@@ -2,8 +2,4 @@
 
 ## 1.0.0
 
-### Added :seedling:
-
-### Changed :sweat_drops:
-
-### Removed :boom:
+Initial release, since I already know it works.
