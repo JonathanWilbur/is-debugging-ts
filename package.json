@@ -11,13 +11,13 @@
     ],
     "description": "Simply determines whether NodeJS is running with debugging.",
     "devDependencies": {
-        "@babel/core": "^7.10.5",
-        "@babel/preset-env": "^7.10.4",
-        "@babel/preset-typescript": "^7.10.4",
-        "@types/node": "^14.0.27",
-        "@typescript-eslint/eslint-plugin": "^3.7.1",
-        "@typescript-eslint/parser": "^3.7.1",
-        "eslint": "^7.5.0",
+        "@babel/core": "^7.12.10",
+        "@babel/preset-env": "^7.12.11",
+        "@babel/preset-typescript": "^7.12.7",
+        "@types/node": "^14.14.22",
+        "@typescript-eslint/eslint-plugin": "^3.10.1",
+        "@typescript-eslint/parser": "^3.10.1",
+        "eslint": "^7.18.0",
         "typescript": "^3.9.7"
     },
     "directories": {
@@ -41,5 +41,5 @@
         "clean": "rm -rf dist; mkdir -p dist"
     },
     "types": "./dist/node/index.d.ts",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
